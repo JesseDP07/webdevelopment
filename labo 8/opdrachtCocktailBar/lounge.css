@@ -1,0 +1,53 @@
+body {
+    font-size: 1.2em;
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    color: #444444;
+}
+
+#wrapper {
+    width: 95%;
+    margin: 0 auto;
+}
+#content {
+    width: 70%;
+    float: left;
+    box-sizing: border-box;
+}
+
+#elixirs {
+    width: 30%;
+    float: right;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #007e7e;
+}
+
+h1 {
+    font-size: 150%;
+}
+
+h2 {
+    font-size: 130%;
+}
+
+footer {
+    clear: both;
+    font-size: 50%;
+}
+#guarantee {
+    margin: 30px;
+    padding: 20px;
+    color: #444444;
+    background-color: #a7cece;
+    border: 2px dashed white;
+}
+#elixirs h1 {
+    color: #cc6600;
+}
+
+#elixirs h2 {
+    color: #993333;
+}
